@@ -71,3 +71,4 @@ You will see a list of commits that you have made to this repository. The most r
 #Grading
 
 This assignment will be graded via peer assessment. During the evaluation phase, you must evaluate and grade the submissions of at least 4 of your classmates. If you do not complete at least 4 evaluations, your own assignment grade will be reduced by 20%.
+
